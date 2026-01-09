@@ -31,7 +31,7 @@ This project demonstrates how to manage UI state changes dynamically using **HTM
 
 ## 🔗 Live Link
 
-👉 
+👉 https://curiousvaishnavi.github.io/SocialToggle/
 
 
 ## 📂 Project Purpose
